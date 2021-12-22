@@ -1,4 +1,4 @@
-Example Voting App
+Ejemplo para Kubernetes sobre una máquina Windows con .NET 2.2
 =========
 
 A simple distributed application running across multiple Docker containers.
